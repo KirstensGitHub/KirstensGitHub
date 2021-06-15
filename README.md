@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Kirsten!
 - 👀  I study cognitive neuroscience 
-- 🖥  Learn more @ kirstenziman.com
-- 📫  Contact me @ kirsten.ziman.gr@dartmouth.edu
+- 🖥  Learn more at kirstenziman.com
+- 📫  Contact me at kirsten.ziman.gr[at]dartmouth[dot]edu
 
 <!---
 KirstensGitHub/KirstensGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
