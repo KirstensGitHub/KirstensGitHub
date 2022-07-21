@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Kirsten!
-- 👀  I study cognitive neuroscience 
+- 👀  I am a cognitive neuroscientist
 - 🖥  Learn more at kirstenziman.com
 - 📫  Email me at kz0108@princeton.edu
 
